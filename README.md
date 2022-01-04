@@ -38,3 +38,7 @@ using an figma designe
 * Se agregar el background del header con linear-gradient
 * se reposiciona el h1 y el p del header con cambios en su dimensión, su fuentes y color.
 
+# Uso de position para botón flotante
+* Se uso flex dentro del header para posicionar los elementos
+* Se utilizo position abosolute para posicionar el botón
+
