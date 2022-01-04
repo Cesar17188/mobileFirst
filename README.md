@@ -17,3 +17,7 @@ using an figma designe
 * Desde google fonts elegimos las fuentes DM Sans y Inter
 * Copiamos los links de las fuentes y las pegamos bajo el title
 * Para dar estilos ir a css y poner font-family: "fuente requeria"
+
+# Estilos base
+* Ingresamos los colores base como variables en --root
+* Ingresamos todos los estilos base en general con * y en html
