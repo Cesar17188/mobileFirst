@@ -21,3 +21,11 @@ using an figma designe
 # Estilos base
 * Ingresamos los colores base como variables en --root
 * Ingresamos todos los estilos base en general con * y en html
+
+# Maquetación del header
+* Ingresamos los elementos necesarios en el header:
+    * img <!-- se mostrara el lógotipo -->
+    * div: 
+        * h1 <!--  título -->
+        * p <!--  párrafo -->
+        * a <!-- link -->
