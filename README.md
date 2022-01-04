@@ -33,3 +33,8 @@ using an figma designe
 # Implementando BEM
 * Asignación de clases a los componentes del header por medio de la metodología BEM
 * Inicio de asignación de estilos para el header
+
+# Uso de linear-gradient
+* Se agregar el background del header con linear-gradient
+* se reposiciona el h1 y el p del header con cambios en su dimensión, su fuentes y color.
+
