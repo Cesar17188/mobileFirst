@@ -29,3 +29,7 @@ using an figma designe
         * h1 <!--  título -->
         * p <!--  párrafo -->
         * a <!-- link -->
+
+# Implementando BEM
+* Asignación de clases a los componentes del header por medio de la metodología BEM
+* Inicio de asignación de estilos para el header
