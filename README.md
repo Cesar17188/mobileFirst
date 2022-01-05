@@ -55,3 +55,5 @@ using an figma designe
 # Estructura de tabla de monedas
 * Se ingresó una estructura de tabla usando <table>
 
+# Estilos base de tabla de monedas
+* Cambia el estilo de la tabla con margin y colores diferentes
