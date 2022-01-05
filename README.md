@@ -25,7 +25,7 @@ using an figma designe
 # Maquetación del header
 * Ingresamos los elementos necesarios en el header:
     * img <!-- se mostrara el lógotipo -->
-    * div: 
+    * div:
         * h1 <!--  título -->
         * p <!--  párrafo -->
         * a <!-- link -->
