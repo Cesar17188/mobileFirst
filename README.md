@@ -57,3 +57,7 @@ using an figma designe
 
 # Estilos base de tabla de monedas
 * Cambia el estilo de la tabla con margin y colores diferentes
+
+# Detallando estilos de tabla
+* Se crea la tabla de comisiones
+* Se agrega nuevos estilos de estilización a las tablas
