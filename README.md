@@ -42,3 +42,13 @@ using an figma designe
 * Se uso flex dentro del header para posicionar los elementos
 * Se utilizo position abosolute para posicionar el botón
 
+# Estructura base de la sección de intercambio
+* Se ingresó la estructura en html de la sección main
+* Se ingreso el título y el párrafo
+
+# Imagen de background
+* Ingresamos la imagen utilizando background-image
+* Recordar que se debe poner varias propiedades para que la imagen salga bien: 
+    * background-size: cover;
+    * background-position: center;
+    * background-repeat: no-repeat;
