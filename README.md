@@ -52,3 +52,6 @@ using an figma designe
     * background-size: cover;
     * background-position: center;
     * background-repeat: no-repeat;
+# Estructura de tabla de monedas
+* Se ingresó una estructura de tabla usando <table>
+
