@@ -20,6 +20,7 @@
   --soft-gray: #808080;
 }
 
+/* Cambios generales*/
 * {
   margin: 0;
   padding: 0;
@@ -30,6 +31,8 @@ html {
   font-size: 62.5%;
   font-family: "DM Sans", sans-serif;
 }
+
+/*header design*/
 
 header {
   position: relative;
@@ -102,6 +105,8 @@ header img {
     background-repeat: no-repeat;
 }
 
+/*Main design*/
+
 main {
   width: 100%;
   height: auto;
@@ -144,6 +149,8 @@ main {
   line-height: 1.6rem;
   color: #757575;
 }
+
+/*Table in the main*/
 
 .main-currency-table, .main-comision-table{
   width: 70%;
@@ -200,7 +207,6 @@ main {
 .table__bottom-right {
   border-radius: 0 0 15px 0;
 }
-
 .currency-table--container .table__right, .comision-table--container .table__right{
   text-align: center;
   font-size: 1.4rem;
@@ -248,6 +254,8 @@ main {
   color: var(--warm-black);
 }
 
+/*Product detail design*/
+
 .main-product-detail {
   position: relative;
   width: 100%;
@@ -290,7 +298,7 @@ main {
   width: 90%;
   min-width: 288px;
   max-width: 400px;
-  height: 150px;
+  min-height: 150px;
   margin: 15px auto;
   padding: 15px;
   background-color: var(--black);
@@ -330,4 +338,24 @@ main {
   font-weight: 500;
   line-height: 1.8rem;
   color: var(--soft-gray);
+}
+
+/*Bitcoin img design*/
+
+.bitcoing-img-container {
+  width: 100%;
+  min-width: 320px;
+  height: 50vh;
+  background-image: url("./assets/imgs/bitcoinbabyx2.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+.bitcoing-img-container h2 {
+  padding-top: 60px;
+  font-size: 2.4rem;
+  font-weight: bold;
+  line-height: 2.6rem;
+  color: var(--just-white);
 }
