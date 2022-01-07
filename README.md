@@ -61,3 +61,5 @@ using an figma designe
 # Detallando estilos de tabla
 * Se crea la tabla de comisiones
 * Se agrega nuevos estilos de estilización a las tablas
+
+# Estructura base de la sección de beneficios
