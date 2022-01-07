@@ -66,3 +66,5 @@ using an figma designe
 # Estilos de la sección de beneficios
 # Maquetando tarjetas de beneficios
 
+# Maquetando sección comodín
+
