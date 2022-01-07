@@ -64,3 +64,5 @@ using an figma designe
 
 # Estructura base de la sección de beneficios
 # Estilos de la sección de beneficios
+# Maquetando tarjetas de beneficios
+
