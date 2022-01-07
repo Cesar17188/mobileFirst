@@ -70,3 +70,5 @@ using an figma designe
 
 # Estructura de sección de planes
 # Aplicando estilos a sección de planes
+# Aplicando estilos a las tarjetas de la sección de planes
+
