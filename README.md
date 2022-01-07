@@ -63,3 +63,4 @@ using an figma designe
 * Se agrega nuevos estilos de estilización a las tablas
 
 # Estructura base de la sección de beneficios
+# Estilos de la sección de beneficios
