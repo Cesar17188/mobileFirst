@@ -68,3 +68,5 @@ using an figma designe
 
 # Maquetando sección comodín
 
+# Estructura de sección de planes
+# Aplicando estilos a sección de planes
