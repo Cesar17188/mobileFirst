@@ -151,13 +151,22 @@ main {
 }
 
 /*Table in the main*/
+.main-tables-container {
+  display: flex;
+  overflow-x: scroll;
+  overscroll-behavior-x: contain;
+  scroll-snap-type: x proximity;
+}
 
 .main-currency-table, .main-comision-table{
   width: 70%;
+  position: relative;
+  scroll-snap-align: center;
   min-width: 235px;
   max-width: 500px;
   height: 360px;
-  margin: 0 auto;
+  margin: 50px 20px 0;
+  padding: 0 10px;
   font-family: "Inter", sans-serif;
 }
 .main-currency-table .currency-table--title{

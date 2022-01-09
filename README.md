@@ -75,5 +75,6 @@ using an figma designe
 # Aplicando estilos al botón de call to action
 # Scroll horizontal con CSS
 
-
 # Footer
+
+# Aplicando media queries
