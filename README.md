@@ -74,3 +74,6 @@ using an figma designe
 # Detallando estilos en tarjetas de planes
 # Aplicando estilos al botón de call to action
 # Scroll horizontal con CSS
+
+
+# Footer
