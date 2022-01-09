@@ -78,3 +78,4 @@ using an figma designe
 # Footer
 
 # Aplicando media queries
+# Análisis con Lighthouse
